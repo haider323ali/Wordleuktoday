@@ -1,0 +1,1 @@
+<a href="https://wordleuk.today/">Wordle UK</a> is a fun and engaging word puzzle game designed specifically for players in the United Kingdom. In this version of the popular Wordle game, players must guess a five-letter word in six tries. The game provides feedback on each guess, showing which letters are correct and in the right position.
